@@ -1256,7 +1256,7 @@ body {
 
 .footer {
   position: relative;
-  background: url('/images/footer.jpg') no-repeat center center/cover;
+  background: url('images/footer.jpg') no-repeat center center/cover;
   color: #ffffff;
   padding: 60px 20px 30px;
   font-size: 16px;
