@@ -11,10 +11,6 @@
 - **CSS3** (Flexbox, Grid, Transitions)
 - **JavaScript** (Vanilla JS + DOM events)
 - **Boxicons / Ionicons** (icons)
-- **Swiper.js** *(optional for gallery carousel)*
-- **Lightbox2** *(optional for image zoom on click)*
-
-
 ---
 
 ## © License
